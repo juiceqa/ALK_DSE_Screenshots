@@ -1,0 +1,15 @@
+params:
+  eyesRendering:
+    - width: 1920
+      height: 1080
+      name: chrome
+    - width: 1920
+      height: 1080
+      name: firefox
+    - width: 1920
+      height: 1080
+      name: ie11
+      id: IE_11
+    - width: 1920
+      height: 1080
+      name: edge

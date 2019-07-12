@@ -1008,7 +1008,7 @@
     "id": "22ff4a24-88b3-4be8-9587-a71904744468",
     "name": "Email_Share",
     "persistSession": false,
-    "parallel": false,
+    "parallel": true,
     "timeout": 300,
     "tests": ["523a2fa2-a744-4a4e-beb5-9f375a21fea3", "4c906d8f-3bbb-418c-999a-3498a5f0a641", "73fbf0f4-7008-4198-ac41-46b0a651cf46", "e6f56ec2-dde3-4d4b-969c-5cf5cd75165a"]
   }],
